@@ -1,0 +1,178 @@
+{
+  "wallets": [
+    {
+      "label": "AFinDubai",
+      "twitter": "@AFinDubai",
+      "wallet": "0x325f3E52bB8529352091a268F60750BA5A978cC4"
+    },
+    {
+      "label": "serc1n",
+      "twitter": "@serc1n",
+      "wallet": "0x8a8035F056af830B7205c58c1dC037f826fc2B92"
+    },
+    {
+      "label": "doodlifts",
+      "twitter": "@doodlifts",
+      "wallet": "0x8571eEeD77262a7e147Ac19292aBE6bbc55bB6B1"
+    },
+    {
+      "label": "rocketgirl",
+      "twitter": "@rocketgirlART",
+      "wallet": "0x3E0914Fc2B3B67A476142020B7d6990D01aD234e"
+    }
+  ],
+  "token_metrics": {
+    "base:0x4ed4e862860bed51a9570b96d89af5e1b0efefed": {
+      "symbol": "DEGEN",
+      "name": "Degen",
+      "price_usd": 0.012,
+      "liquidity_usd": 4200000,
+      "market_cap_usd": 150000000,
+      "volume_24h_usd": 8000000,
+      "verified": true,
+      "chart_url": "https://dexscreener.com/base/0x4ed4e862860bed51a9570b96d89af5e1b0efefed"
+    },
+    "base:0x1111111111111111111111111111111111111111": {
+      "symbol": "SPAM",
+      "name": "SpamToken",
+      "price_usd": 0.000001,
+      "liquidity_usd": 800,
+      "market_cap_usd": 12000,
+      "volume_24h_usd": 50,
+      "verified": false
+    }
+  },
+  "events": [
+    {
+      "wallet": "0x325f3E52bB8529352091a268F60750BA5A978cC4",
+      "trader_label": "AFinDubai",
+      "twitter": "@AFinDubai",
+      "chain": "ethereum",
+      "asset_type": "nft",
+      "contract": "0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d",
+      "token_id": "101",
+      "amount": "1",
+      "price_usd": 14200,
+      "tx_hash": "0xaaa1111111111111111111111111111111111111111111111111111111111111",
+      "seconds_ago": 7200,
+      "collection_slug": "boredapeyachtclub",
+      "name": "Bored Ape Yacht Club"
+    },
+    {
+      "wallet": "0x8a8035F056af830B7205c58c1dC037f826fc2B92",
+      "trader_label": "serc1n",
+      "twitter": "@serc1n",
+      "chain": "ethereum",
+      "asset_type": "nft",
+      "contract": "0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d",
+      "token_id": "202",
+      "amount": "1",
+      "price_usd": 13950,
+      "tx_hash": "0xaaa2222222222222222222222222222222222222222222222222222222222222",
+      "seconds_ago": 3600,
+      "collection_slug": "boredapeyachtclub",
+      "name": "Bored Ape Yacht Club"
+    },
+    {
+      "wallet": "0x8571eEeD77262a7e147Ac19292aBE6bbc55bB6B1",
+      "trader_label": "doodlifts",
+      "twitter": "@doodlifts",
+      "chain": "ethereum",
+      "asset_type": "nft",
+      "contract": "0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d",
+      "token_id": "303",
+      "amount": "1",
+      "price_usd": 14100,
+      "tx_hash": "0xaaa3333333333333333333333333333333333333333333333333333333333333",
+      "seconds_ago": 600,
+      "collection_slug": "boredapeyachtclub",
+      "name": "Bored Ape Yacht Club"
+    },
+    {
+      "wallet": "0x3E0914Fc2B3B67A476142020B7d6990D01aD234e",
+      "trader_label": "rocketgirl",
+      "twitter": "@rocketgirlART",
+      "chain": "ethereum",
+      "asset_type": "nft",
+      "contract": "0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d",
+      "token_id": "404",
+      "amount": "1",
+      "price_usd": 14400,
+      "tx_hash": "0xaaa4444444444444444444444444444444444444444444444444444444444444",
+      "seconds_ago": 120,
+      "collection_slug": "boredapeyachtclub",
+      "name": "Bored Ape Yacht Club"
+    },
+    {
+      "wallet": "0x325f3E52bB8529352091a268F60750BA5A978cC4",
+      "trader_label": "AFinDubai",
+      "twitter": "@AFinDubai",
+      "chain": "base",
+      "asset_type": "token",
+      "contract": "0x4ed4e862860bed51a9570b96d89af5e1b0efefed",
+      "amount": "15000",
+      "price_usd": 180,
+      "tx_hash": "0xbbb1111111111111111111111111111111111111111111111111111111111111",
+      "seconds_ago": 1800,
+      "symbol": "DEGEN",
+      "name": "Degen"
+    },
+    {
+      "wallet": "0x8a8035F056af830B7205c58c1dC037f826fc2B92",
+      "trader_label": "serc1n",
+      "twitter": "@serc1n",
+      "chain": "base",
+      "asset_type": "token",
+      "contract": "0x4ed4e862860bed51a9570b96d89af5e1b0efefed",
+      "amount": "9000",
+      "price_usd": 108,
+      "tx_hash": "0xbbb2222222222222222222222222222222222222222222222222222222222222",
+      "seconds_ago": 900,
+      "symbol": "DEGEN",
+      "name": "Degen"
+    },
+    {
+      "wallet": "0x325f3E52bB8529352091a268F60750BA5A978cC4",
+      "trader_label": "AFinDubai",
+      "twitter": "@AFinDubai",
+      "chain": "base",
+      "asset_type": "token",
+      "contract": "0x1111111111111111111111111111111111111111",
+      "amount": "1000000",
+      "price_usd": 1,
+      "tx_hash": "0xccc1111111111111111111111111111111111111111111111111111111111111",
+      "seconds_ago": 400,
+      "symbol": "SPAM",
+      "name": "SpamToken"
+    },
+    {
+      "wallet": "0x8a8035F056af830B7205c58c1dC037f826fc2B92",
+      "trader_label": "serc1n",
+      "twitter": "@serc1n",
+      "chain": "base",
+      "asset_type": "token",
+      "contract": "0x1111111111111111111111111111111111111111",
+      "amount": "2000000",
+      "price_usd": 2,
+      "tx_hash": "0xccc2222222222222222222222222222222222222222222222222222222222222",
+      "seconds_ago": 200,
+      "symbol": "SPAM",
+      "name": "SpamToken"
+    },
+    {
+      "wallet": "0x325f3E52bB8529352091a268F60750BA5A978cC4",
+      "trader_label": "AFinDubai",
+      "twitter": "@AFinDubai",
+      "chain": "ethereum",
+      "asset_type": "nft",
+      "contract": "0x8a90cab2b38dba80c64b7734e58ee1db38b8992e",
+      "token_id": "1",
+      "amount": "1",
+      "price_usd": 90,
+      "tx_hash": "0xddd1111111111111111111111111111111111111111111111111111111111111",
+      "seconds_ago": 300,
+      "collection_slug": "doodles-official",
+      "name": "Doodles"
+    }
+  ]
+}
